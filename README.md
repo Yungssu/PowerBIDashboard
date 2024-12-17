@@ -2,7 +2,7 @@
 
 # Falcon Dashboard
 
-Social Buzz, a social media platform emphasizing content over users, has experienced unprecedented growth. The platform focuses on trending content, measured by over 100 user reactions, while maintaining user anonymity. With over 100,000 pieces of unstructured content generated daily, the company faces challenges related to scaling operations, preparing for an IPO, and adopting best practices for managing big data.
+AtliQ Hardware, a growing hardware company, encountered issues with manual sales reporting and fragmented Excel files, resulting in inefficiencies and delayed decision-making. To address these difficulties, I created a Power BI dashboard that gives real-time sales data, automates reporting, and improves decision-making for stakeholders.
 
 ---
 
