@@ -68,31 +68,16 @@ Includes a pre-calculated measure: Revenue, for advanced reporting.
 - **Provided real-time insights to help regional managers and the sales director make data-driven decisions**.
 - **Improved operational efficiency and aligned sales tracking with organizational goals**.
 
-## 💡 Recommendations
+## 💡 Outcome
 
-Based on the insights gathered from analyzing Social Buzz's data:
+- **The project streamlined AtliQ Hardware’s sales reporting process and empowered the team with automated, actionable insights, achieving the desired success metrics**.
 
-1. **Focus on Top-Performing Categories**  
-   - Makes the site categories as listed, the Animals, Science, Healthy Eating, Technology and Food areas, have the highest total popularity for the topics within them.
-   - Tailor campaigns and partnerships that align with these niches to maintain and increase user engagement, allowing Social Buzz to hone its advantage in these high-performance areas.
-
-2. **Leverage Food-Related Content**  
-   - Social Buzz can partner with food influencers to take engagement to the next level as "Healthy Eating" and "Food" joined the top five categories.
-   - Adding subcategories to these niches is creating more potentially desirable content that would appeal to a wide format while retaining its core market, and driving more engagement across food content on the platform.
-
-4. **Seasonal Posting Strategies**  
-   - Analyze monthly posting trends to identify peak periods and synchronize major content campaigns with these high-traffic months, maximizing visibility.  
-   - Focus on promoting specific categories, such as "Animals" and "Science," during their peak engagement months to optimize user interaction and capitalize on content popularity.
-
-5. **Enhance Data-Driven Decision Making**  
-   - Leverage data insights to enhance content recommendation algorithms, ensuring users are served content that aligns with their interests and engagement patterns.  
-   - Invest in advanced content curation tools that utilize these insights to prioritize and highlight trending topics, improving user experience and driving sustained engagement on the platform.
 
 
 ## 🛠️ Tools Used  
 
-- **Excel**: Data Cleaning and Pivot Tables  
-- **Markdown**: For project documentation  
+- **SQL**: Data Cleaning  
+- **Power BI**: Data Visualization 
 
 ---
 
