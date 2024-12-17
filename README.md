@@ -9,7 +9,7 @@ Social Buzz, a social media platform emphasizing content over users, has experie
 ## 🔍 Analysis Overview  
 
 1. **Data Overview**:
-![Data Overview](https://github.com/Yungssu/ExcelAnalysis/blob/main/SocialBuzzERD.png)
+![Data Overview]([https://github.com/Yungssu/PowerBIDashboard/tree/main/atliqERD])
    - This Entity-Relationship Diagram (ERD) represents the data structure for analyzing user reactions on Social Buzz.
       - Content: Stores details about the posts, including the content type, category, and URL.
       - Reactions: Tracks user interactions with content, recording the type of reaction and timestamp.
