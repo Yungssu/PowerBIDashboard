@@ -30,7 +30,7 @@ This design links user reactions to specific content, enabling insights into use
 ## 📊 Results  
 
 ### Total Scores per Category
-![Results](https://github.com/Yungssu/ExcelAnalysis/blob/main/SocialBuzzTotalScore.png)
+![Results](https://github.com/Yungssu/PowerBIDashboard/blob/main/AtliqDashboard.png)
    - The "Animals" category won overall, and gained the most points. The remaining top-performing categories, in order, were "Science," "Healthy Eating," "Technology," and "Food." These are some of the top categories in terms of user engagement and interest, and they present categories of focus for Social Buzz in terms of activity on the platform and growth.
 
 ### Top 5 "popular" Category  
