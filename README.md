@@ -8,7 +8,7 @@ AtliQ Hardware, a growing hardware company, encountered issues with manual sales
 
 ## 🔍 Analysis Overview  
 
-1. **Data Overview**:
+ **Data Overview**:
 ![Data Overview](https://github.com/Yungssu/PowerBIDashboard/blob/main/atliqERD.png)
    - The Entity Relationship Diagram (ERD) depicts AtliQ Hardware's Sales Insights Data Model. This model integrates multiple data tables to facilitate a comprehensive and efficient analysis of sales performance across products, markets, customers, and time periods. The central table, sales transactions, acts as a fact table, while the surrounding tables provide dimensional context.
 
@@ -35,10 +35,16 @@ Linked to sales transactions via order_date.
 - **base_measures (Supporting Table)**:
 Includes a pre-calculated measure: Revenue, for advanced reporting.
 
-3. **Key Insights**:
-   - Determined the most popular content category by analyzing aggregate user reaction scores.  
-   - Ranked the Top 5 content categories based on user engagement metrics.  
-   - Identified the month with the highest number of posts, highlighting seasonal posting trends.  
+## 🔍 Process  
+
+**AIMS Grid Project Planning**
+
+- **Purpose**: Automate sales reporting and provide actionable insights.
+- **Stakeholders**: Sales Team, IT Team (Falcons), and Data Analytics Team (Data Masters).
+- **End Result**: An interactive Power BI dashboard for real-time sales tracking.
+- **Success Criteria**:
+   - Reduce manual work and costs by 10%.
+   - Increase sales by 5% within 3 months.
 
 ## 📊 Results  
 
