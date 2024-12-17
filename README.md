@@ -42,3 +42,6 @@ One challenge was ensuring that the **SQL database** could handle complex querie
 
 ## Conclusion
 This project sharpened my skills in **Power BI**, **data modeling**, and **SQL**. It provided hands-on experience in building a practical business solution that directly impacted decision-making by delivering real-time insights.
+
+## 🔗 Portfolio Link  
+[Back to My Portfolio][(https://github.com/Yungssu/kennethHuyong.github.io)
