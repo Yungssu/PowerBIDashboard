@@ -59,18 +59,14 @@ Includes a pre-calculated measure: Revenue, for advanced reporting.
    - Real-time data for decision-makers.
 
 
-## 📊 Results  
+## 📊 Dashboard
 
 ### Total Scores per Category
 ![Results](https://github.com/Yungssu/PowerBIDashboard/blob/main/AtliqDashboard.png)
-   - The "Animals" category won overall, and gained the most points. The remaining top-performing categories, in order, were "Science," "Healthy Eating," "Technology," and "Food." These are some of the top categories in terms of user engagement and interest, and they present categories of focus for Social Buzz in terms of activity on the platform and growth.
 
-### Top 5 "popular" Category  
-![Results](https://github.com/Yungssu/ExcelAnalysis/blob/main/SocialBuzzTop5.png)
-   - Among the five leading performance categories, two related directly to food were “Healthy Eating” and “Food.” This also shows a significant user interest in food and nutrition content.
-### Total Posts per Month  
-![Results](https://github.com/Yungssu/ExcelAnalysis/blob/main/SocialBuzzPostsPerMonth.png)
-   - This graph illustrates the monthly posting trends on Social Buzz, showing fluctuations in the number of posts throughout the year. The data reveals peak activity in January, May, and July, with dips in February and October. These trends highlight opportunities for aligning content campaigns with months of increased posting activity.
+- **Reduced dependency on manual Excel processes, saving time and resources**.
+- **Provided real-time insights to help regional managers and the sales director make data-driven decisions**.
+- **Improved operational efficiency and aligned sales tracking with organizational goals**.
 
 ## 💡 Recommendations
 
