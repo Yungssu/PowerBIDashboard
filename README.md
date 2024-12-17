@@ -21,7 +21,7 @@ The project followed a structured approach using the **AIMS grid** to ensure eff
 - The **ETL process** involved extracting the data, transforming it into a usable format, and loading it into Power BI for visualization.
 
 ## Screenshots
-![Dashboard Screenshot](link-to-image.png)
+![Dashboard Screenshot](https://github.com/Yungssu/PowerBIDashboard/blob/main/AtliqDashboard.png)
 
 ## Technical Stack
 - **Power BI**: For creating interactive dashboards and real-time analytics.
