@@ -10,7 +10,7 @@ AtliQ Hardware, a growing hardware company, encountered issues with manual sales
 
 1. **Data Overview**:
 ![Data Overview](https://github.com/Yungssu/PowerBIDashboard/blob/main/atliqERD.png)
-            - The Entity Relationship Diagram (ERD) depicts AtliQ Hardware's Sales Insights Data Model. This model integrates multiple data tables to facilitate a comprehensive and efficient analysis of sales performance across products, markets, customers, and time periods. The central table, sales transactions, acts as a fact table, while the surrounding tables provide dimensional context.
+   - The Entity Relationship Diagram (ERD) depicts AtliQ Hardware's Sales Insights Data Model. This model integrates multiple data tables to facilitate a comprehensive and efficient analysis of sales performance across products, markets, customers, and time periods. The central table, sales transactions, acts as a fact table, while the surrounding tables provide dimensional context.
 
 - **sales transactions (Fact Table)**:
 Contains detailed transactional data such as sales_amount, sales_qty, profit_margin, and order_date.
