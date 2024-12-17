@@ -10,17 +10,30 @@ AtliQ Hardware, a growing hardware company, encountered issues with manual sales
 
 1. **Data Overview**:
 ![Data Overview](https://github.com/Yungssu/PowerBIDashboard/blob/main/atliqERD.png)
-   - This Entity-Relationship Diagram (ERD) represents the data structure for analyzing user reactions on Social Buzz.
-      - Content: Stores details about the posts, including the content type, category, and URL.
-      - Reactions: Tracks user interactions with content, recording the type of reaction and timestamp.
-      - ReactionTypes: Defines reaction types, their sentiment, and associated scores.
-   - This design links user reactions to specific content, enabling insights into user preferences and engagement patterns. 
+   The Entity Relationship Diagram (ERD) depicts AtliQ Hardware's Sales Insights Data Model. This model integrates multiple data tables to facilitate a comprehensive and efficient analysis of sales performance across products, markets, customers, and time periods. The central table, sales transactions, acts as a fact table, while the surrounding tables provide dimensional context.
 
-- **Content**: Stores details about the posts, including the content type, category, and URL.  
-- **Reactions**: Tracks user interactions with content, recording the type of reaction and timestamp.  
-- **ReactionTypes**: Defines reaction types, their sentiment, and associated scores.  
+- **sales transactions (Fact Table)**:
+Contains detailed transactional data such as sales_amount, sales_qty, profit_margin, and order_date.
+Serves as the central table connecting all dimensions for analysis.
 
-This design links user reactions to specific content, enabling insights into user preferences and engagement patterns.
+- **sales products (Dimension Table)**:
+Contains product details: product_code and product_type.
+Linked to sales transactions via product_code.
+
+- **sales customers (Dimension Table)**:
+Provides customer details: customer_name, customer_code, and customer_type.
+Linked to sales transactions through customer_code.
+
+- **sales markets (Dimension Table)**:
+Contains geographical details: markets_code, markets_name, and zone.
+Linked to sales transactions via market_code.
+
+- **sales date (Time Dimension Table)**:
+Holds date-related information: date, month_name, year, and date_yy_mmm.
+Linked to sales transactions via order_date.
+
+- **base_measures (Supporting Table)**:
+Includes a pre-calculated measure: Revenue, for advanced reporting.
 
 3. **Key Insights**:
    - Determined the most popular content category by analyzing aggregate user reaction scores.  
