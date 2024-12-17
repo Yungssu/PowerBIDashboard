@@ -1,86 +1,44 @@
-# PowerBIDashboard
+# Power BI Dashboard Project
 
-# Falcon Dashboard
+## Project Overview
+This project involved building a **Power BI dashboard** for AtliQ Hardware, aimed at enhancing the company's ability to track and analyze real-time sales data. Using a combination of **SQL queries** for data extraction and **Power BI** for visualization, the goal was to provide actionable business insights for the sales and marketing teams.
 
-AtliQ Hardware, a growing hardware company, encountered issues with manual sales reporting and fragmented Excel files, resulting in inefficiencies and delayed decision-making. To address these difficulties, I created a Power BI dashboard that gives real-time sales data, automates reporting, and improves decision-making for stakeholders.
+## AIMS Grid Methodology
+The project followed a structured approach using the **AIMS grid** to ensure effective project planning and execution:
 
----
+- **Purpose**: Address the issue of manual, time-consuming reporting in Excel by automating the sales insights process.
+- **Stakeholders**: The marketing, sales, IT (Falcons), and data teams (Data Masters) all collaborated to design and implement the dashboard.
+- **End Result**: A **real-time Power BI dashboard** that allows decision-makers to quickly view sales performance by region, product, and customer type.
+- **Success Criteria**: The dashboard aimed to reduce manual report generation time by 50% and improve decision-making speed with up-to-date insights.
 
-## 🔍 Analysis Overview  
+## Key Features
+- **Interactive filters** to view data by market, product, and sales representative.
+- **Real-time sales insights** visualized through KPIs like sales amount, profit margin, and quantities sold.
+- **Dynamic visuals** that allow for in-depth analysis and comparison over different time periods.
 
- **Data Overview**:
-![Data Overview](https://github.com/Yungssu/PowerBIDashboard/blob/main/atliqERD.png)
-   - The Entity Relationship Diagram (ERD) depicts AtliQ Hardware's Sales Insights Data Model. This model integrates multiple data tables to facilitate a comprehensive and efficient analysis of sales performance across products, markets, customers, and time periods. The central table, sales transactions, acts as a fact table, while the surrounding tables provide dimensional context.
+## Data Integration and Transformation
+- The data was sourced from an internal **SQL database** containing transaction details, customer information, and market data. 
+- The **ETL process** involved extracting the data, transforming it into a usable format, and loading it into Power BI for visualization.
 
-- **sales transactions (Fact Table)**:
-Contains detailed transactional data such as sales_amount, sales_qty, profit_margin, and order_date.
-Serves as the central table connecting all dimensions for analysis.
+## Screenshots
+![Dashboard Screenshot](link-to-image.png)
 
-- **sales products (Dimension Table)**:
-Contains product details: product_code and product_type.
-Linked to sales transactions via product_code.
+## Technical Stack
+- **Power BI**: For creating interactive dashboards and real-time analytics.
+- **SQL**: For querying and extracting data.
+- **DAX**: For advanced metrics and calculations.
 
-- **sales customers (Dimension Table)**:
-Provides customer details: customer_name, customer_code, and customer_type.
-Linked to sales transactions through customer_code.
+## How to Run the Project
+1. Clone the repository to your local machine.
+2. Connect to the data source (MySQL database or local dataset).
+3. Open the Power BI file to explore the dashboard.
 
-- **sales markets (Dimension Table)**:
-Contains geographical details: markets_code, markets_name, and zone.
-Linked to sales transactions via market_code.
+## Challenges Faced
+One challenge was ensuring that the **SQL database** could handle complex queries without slowing down the operational systems. To solve this, we implemented **optimized queries** and focused on using Power BI's **data modeling** capabilities to minimize the impact on performance.
 
-- **sales date (Time Dimension Table)**:
-Holds date-related information: date, month_name, year, and date_yy_mmm.
-Linked to sales transactions via order_date.
+## Future Improvements
+- Integrating more data sources like customer feedback.
+- Adding predictive analytics to forecast future sales trends.
 
-- **base_measures (Supporting Table)**:
-Includes a pre-calculated measure: Revenue, for advanced reporting.
-
-##  Process  
-
-1. **AIMS Grid Project Planning**
-
-- **Purpose**: Automate sales reporting and provide actionable insights.
-- **Stakeholders**: Sales Team, IT Team (Falcons), and Data Analytics Team (Data Masters).
-- **End Result**: An interactive Power BI dashboard for real-time sales tracking.
-- **Success Criteria**:
-   - Reduce manual work and costs by 10%.
-   - Increase sales by 5% within 3 months.
-     
-2. **Data Integration**
-
-- **Connected Power BI directly to the MySQL database storing sales records**.
-- **Simplified ETL**: Performed transformations such as filtering, cleaning, and removing unnecessary columns within Power BI.
-  
-3. **Dashboard Development**
-
-- **Designed intuitive visualizations to display**:
-   - Sales trends and performance metrics.
-   - Regional and product-level breakdowns.
-   - Real-time data for decision-makers.
-
-
-## 📊 Dashboard
-
-### Total Scores per Category
-![Results](https://github.com/Yungssu/PowerBIDashboard/blob/main/AtliqDashboard.png)
-
-- **Reduced dependency on manual Excel processes, saving time and resources**.
-- **Provided real-time insights to help regional managers and the sales director make data-driven decisions**.
-- **Improved operational efficiency and aligned sales tracking with organizational goals**.
-
-## 💡 Outcome
-
-- **The project streamlined AtliQ Hardware’s sales reporting process and empowered the team with automated, actionable insights, achieving the desired success metrics**.
-
-
-
-## 🛠️ Tools Used  
-
-- **SQL**: Data Cleaning  
-- **Power BI**: Data Visualization 
-
----
-
-## 🔗 Portfolio Link  
-[Back to My Portfolio][(https://github.com/Yungssu/kennethHuyong.github.io)
-
+## Conclusion
+This project sharpened my skills in **Power BI**, **data modeling**, and **SQL**. It provided hands-on experience in building a practical business solution that directly impacted decision-making by delivering real-time insights.
