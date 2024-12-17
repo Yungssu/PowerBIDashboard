@@ -35,9 +35,9 @@ Linked to sales transactions via order_date.
 - **base_measures (Supporting Table)**:
 Includes a pre-calculated measure: Revenue, for advanced reporting.
 
-## 🔍 Process  
+##  Process  
 
-**AIMS Grid Project Planning**
+1. **AIMS Grid Project Planning**
 
 - **Purpose**: Automate sales reporting and provide actionable insights.
 - **Stakeholders**: Sales Team, IT Team (Falcons), and Data Analytics Team (Data Masters).
@@ -45,6 +45,19 @@ Includes a pre-calculated measure: Revenue, for advanced reporting.
 - **Success Criteria**:
    - Reduce manual work and costs by 10%.
    - Increase sales by 5% within 3 months.
+     
+2. **Data Integration**
+
+- **Connected Power BI directly to the MySQL database storing sales records**.
+- **Simplified ETL**: Performed transformations such as filtering, cleaning, and removing unnecessary columns within Power BI.
+  
+3. **Dashboard Development**
+
+- **Designed intuitive visualizations to display**:
+   - Sales trends and performance metrics.
+   - Regional and product-level breakdowns.
+   - Real-time data for decision-makers.
+
 
 ## 📊 Results  
 
