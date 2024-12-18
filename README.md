@@ -1,47 +1,45 @@
-# Power BI Dashboard Project
-
 ## Project Overview
 This project involved building a **Power BI dashboard** for AtliQ Hardware, aimed at enhancing the company's ability to track and analyze real-time sales data. Using a combination of **SQL queries** for data extraction and **Power BI** for visualization, the goal was to provide actionable business insights for the sales and marketing teams.
 
-## AIMS Grid Methodology
-The project followed a structured approach using the **AIMS grid** to ensure effective project planning and execution:
+## Project Breakdown
+This project uses the AIMS grid project planning approach and follows a structured process of data collection, transformation, and visualization. The primary goal was to integrate data from various sources, including sales transactions, customers, markets, and products, into a unified reporting tool. Here are the core components of the dashboard:
 
-- **Purpose**: Address the issue of manual, time-consuming reporting in Excel by automating the sales insights process.
-- **Stakeholders**: The marketing, sales, IT (Falcons), and data teams (Data Masters) all collaborated to design and implement the dashboard.
-- **End Result**: A **real-time Power BI dashboard** that allows decision-makers to quickly view sales performance by region, product, and customer type.
-- **Success Criteria**: The dashboard aimed to reduce manual report generation time by 50% and improve decision-making speed with up-to-date insights.
+- **Sales Performance Analysis**: Visualizes the sales amount, profit margins, and quantity of products sold across different markets and customer types.
+- **Product Insights**: Provides detailed breakdowns by product type and market, helping identify best-sellers and areas for growth.
+- **Time-based Trends**: Uses date dimensions to track sales performance over time, showing trends in sales amounts and profit margins by month, quarter, or year.
+- **Interactive Features**: Users can filter the data based on various factors such as region, customer type, product type, and time period to get customized reports.
 
 ## Key Features
-- **Interactive filters** to view data by market, product, and sales representative.
-- **Real-time sales insights** visualized through KPIs like sales amount, profit margin, and quantities sold.
-- **Dynamic visuals** that allow for in-depth analysis and comparison over different time periods.
+- **Sales Trends**: A line chart shows sales performance over time, helping managers understand how sales fluctuate monthly, quarterly, or yearly.
+- **Market Analysis**: A geographical map visualizes sales performance by region, providing valuable insights into which markets are performing well and which need attention.
+- **Customer Insights**: The dashboard includes detailed customer data, allowing the sales team to segment by customer type and identify areas for improvement.
+- **Profit Margin Analysis**: A measure of profit margins is calculated for each sale, helping the company evaluate the profitability of its products and services.
 
 ## Data Integration and Transformation
 - The data was sourced from an internal **SQL database** containing transaction details, customer information, and market data. 
 - The **ETL process** involved extracting the data, transforming it into a usable format, and loading it into Power BI for visualization.
+- **Power BI** was used to extract the data via DirectQuery, ensuring real-time analysis without affecting the source database. **SQL queries** were used to clean and transform the data before it was visualized in Power BI.
 
 ## Screenshots
 ![Dashboard Screenshot](https://github.com/Yungssu/PowerBIDashboard/blob/main/AtliqDashboard.png)
 
-## Technical Stack
-- **Power BI**: For creating interactive dashboards and real-time analytics.
-- **SQL**: For querying and extracting data.
-- **DAX**: For advanced metrics and calculations.
-
-## How to Run the Project
-1. Clone the repository to your local machine.
-2. Connect to the data source (MySQL database or local dataset).
-3. Open the Power BI file to explore the dashboard.
+## Success Criteria
+- **Efficiency Gains**: This dashboard significantly reduces the manual work previously done in Excel, saving both time and cost for the sales and marketing teams.
+- **Real-time Insights**: By automating the data collection and visualization process, the dashboard provides up-to-date insights on sales performance.
+- **Cost Reduction**: One of the main goals of the project was to reduce costs associated with manual data processing and improve data quality.
+- **Increase in Sales**: By leveraging data-driven decisions, the company aims to boost sales performance by identifying trends and areas for growth.
 
 ## Challenges Faced
 One challenge was ensuring that the **SQL database** could handle complex queries without slowing down the operational systems. To solve this, we implemented **optimized queries** and focused on using Power BI's **data modeling** capabilities to minimize the impact on performance.
 
 ## Future Improvements
-- Integrating more data sources like customer feedback.
-- Adding predictive analytics to forecast future sales trends.
+- **Automation of Data Imports**: Future updates may include an automated ETL pipeline for data extraction, transformation, and loading.
+- **Additional Analytics**: Incorporating predictive analytics using Power BI’s advanced AI features to forecast future sales trends.
 
-## Conclusion
-This project sharpened my skills in **Power BI**, **data modeling**, and **SQL**. It provided hands-on experience in building a practical business solution that directly impacted decision-making by delivering real-time insights.
+## Key Achievements:
+  - Reduced manual work previously performed in Excel.
+  - Provided real-time insights, helping sales teams make data-driven decisions.
+  - Streamlined the sales analysis process, saving time and operational costs.
 
 ## 🔗 Portfolio Link  
 [Back to My Portfolio][(https://github.com/Yungssu/kennethHuyong.github.io)
