@@ -23,6 +23,11 @@ This project uses the AIMS grid project planning approach and follows a structur
 ## 📊Screenshots
 ![Dashboard Screenshot](https://github.com/Yungssu/PowerBIDashboard/blob/main/AtliqDashboard/AtliqDashboard.png)
 
+## 🌐 Access the Dashboard
+You can access and interact with the **Atliq Dashboard** online by visiting the link below:  
+🔗 [https://app.powerbi.com/groups/me/reports/b0aebfdc-ad69-4a70-913d-4d09d69085d2/f49adec510c5b8edacdb?experience=power-bi]
+
+
 ## 📈Success Criteria
 - **Efficiency Gains**: This dashboard significantly reduces the manual work previously done in Excel, saving both time and cost for the sales and marketing teams.
 - **Real-time Insights**: By automating the data collection and visualization process, the dashboard provides up-to-date insights on sales performance.
