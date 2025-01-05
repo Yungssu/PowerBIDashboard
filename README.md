@@ -46,9 +46,3 @@ Through these projects, I have honed my skills in:
 - 🧰 **Tools and Technologies:** Power BI, SQL, Excel, and more.
 
 ---
-
-## 📬 Contact
-
-I’d love to hear your feedback or discuss potential collaborations! Feel free to reach out:  
-**Kenneth Huyong**  
-📧 yungssufoolish@gmail.com  
