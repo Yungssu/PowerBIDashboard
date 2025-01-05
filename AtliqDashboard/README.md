@@ -25,7 +25,7 @@ This project uses the AIMS grid project planning approach and follows a structur
 
 ## 🌐 Access the Dashboard
 You can access and interact with the **Atliq Dashboard** online by visiting the link below:  
-🔗 [https://app.powerbi.com/groups/me/reports/b0aebfdc-ad69-4a70-913d-4d09d69085d2/f49adec510c5b8edacdb?experience=power-bi]
+🔗 [Link to Dashboard](https://app.powerbi.com/groups/me/reports/b0aebfdc-ad69-4a70-913d-4d09d69085d2/f49adec510c5b8edacdb?experience=power-bi).
 
 
 ## 📈Success Criteria
