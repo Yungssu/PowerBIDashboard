@@ -1,48 +1,53 @@
-# 📊 Power BI Dashboard Portfolio
+# Power BI Dashboard Portfolio 📊✨
 
-Welcome to my Power BI Dashboard portfolio! This repository showcases the data analysis and visualization projects I have worked on, highlighting my skills in storytelling with data, business intelligence, and actionable insights.
-
----
-
-## 🔍 About Me
-
-I am passionate about transforming raw data into meaningful insights through interactive dashboards and reports. This portfolio reflects my ability to analyze data, create visualizations, and provide actionable recommendations to solve real-world problems.
+Welcome to my Power BI Dashboard Portfolio! This repository showcases interactive and insightful dashboards designed to extract actionable insights from data. Below are the projects included in this portfolio:
 
 ---
 
-## 🗂️ Projects
+## 🌌 Aurora Dashboard: Customer Profiling and Segmentation
 
-### 1. **Aurora Dashboard: Customer Profiling and Segmentation**  
-**📖 Description:**  
-A comprehensive dashboard analyzing customer demographics, financial health, and transaction behaviors to guide personalized marketing and risk management strategies.  
-- **✨ Key Features:**  
-  - 📊 Visualized income segmentation by age and gender.  
-  - 📈 Credit score distribution across customers.  
-  - 💳 Insights on debt-to-income ratios and transaction amounts.  
+### Overview
+Gain a deep understanding of customer demographics, financial health, and behaviors to enable personalized marketing strategies and assess customer risk levels.
 
-📌 **[View Project](https://github.com/Yungssu/PowerBIDashboard/tree/main/AuroraDashboard)**  
+### Highlights
+- **Customer Credit Scores**: Identified that "Good" is the most common credit score across all age brackets, indicating strong financial stability in the customer base. ✅  
+- **Gender Segmentation**: Unique income bracket dominance patterns revealed actionable opportunities for tailored marketing strategies. 👥  
+- **Financial Behavior in Younger Customers**: Younger age groups (18-25) exhibited the highest average transaction amounts but also the highest debt-to-income ratios, suggesting room for targeted financial advice. 💡  
 
----
-
-### 2. **[Add Other Project Titles Here]**  
-**📖 Description:**  
-Brief summary of the second project. Highlight the problem it solves or the insights it delivers.  
-- **✨ Key Features:**  
-  - 🔹 Key detail 1.  
-  - 🔹 Key detail 2.  
-
-📌 **[View Project](https://github.com/Yungssu/PowerBIDashboard/tree/main/AtliqDashboard)**  
-
-*(Repeat this format for each project in your portfolio.)*
+### Visuals
+Check out the interactive visuals and insights in the Aurora Dashboard! [Link to Dashboard Visuals](#)  
 
 ---
 
-## 🛠️ Skills Demonstrated
+## 🏢 Atliq Hardware Dashboard: Sales Insights and Analysis
 
-Through these projects, I have honed my skills in:  
-- 🔎 **Data Analysis:** Exploring and understanding complex datasets.  
-- 📊 **Data Visualization:** Designing interactive dashboards that highlight key trends and insights.  
-- 📈 **Business Intelligence:** Identifying actionable insights to drive decision-making.  
-- 🧰 **Tools and Technologies:** Power BI, SQL, Excel, and more.
+### Overview
+The Atliq Hardware Dashboard provides key insights into sales performance, profit trends, and operational efficiency, enabling data-driven decisions for business growth.
+
+### Highlights
+- **Sales Performance**: Identified top-performing regions and products, driving strategic focus on high-value segments. 📈  
+- **Profitability Trends**: Highlighted periods of low profitability, prompting deep dives into operational costs and pricing strategies. 📉  
+- **Customer Segmentation**: Gained insights into customer purchasing patterns to tailor offerings and boost customer satisfaction. 💼  
+
+### Visuals
+Explore the Atliq Hardware Dashboard and its actionable insights here: [Link to Dashboard Visuals](#)
+
+---
+
+### About Me 🌟
+I’m Kenneth Huyong, an aspiring data analyst passionate about transforming raw data into actionable insights. My projects reflect my skills in data visualization, Power BI, and storytelling through data.
+
+Feel free to explore the dashboards and reach out if you have any questions or opportunities to collaborate!
+
+📧 Email: kennethwhoyong@gmail.com 
+💼 [LinkedIn Profile](#)  
+🌐 [Portfolio](#)
+
+---
+
+### Tools and Technologies Used 🛠️
+- **Power BI**: Interactive dashboards and reports
+- **Excel**: Data preprocessing and analysis
+- **SQL**: Querying and transforming data
 
 ---
