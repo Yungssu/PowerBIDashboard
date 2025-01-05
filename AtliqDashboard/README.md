@@ -21,7 +21,7 @@ This project uses the AIMS grid project planning approach and follows a structur
 - **Power BI** was used to extract the data via DirectQuery, ensuring real-time analysis without affecting the source database. **SQL queries** were used to clean and transform the data before it was visualized in Power BI.
 
 ## 📊Screenshots
-![Dashboard Screenshot](https://github.com/Yungssu/PowerBIDashboard/blob/main/AtliqDashboard.png)
+![Dashboard Screenshot](https://github.com/Yungssu/PowerBIDashboard/blob/main/AtliqDashboard/AtliqDashboard.png)
 
 ## 📈Success Criteria
 - **Efficiency Gains**: This dashboard significantly reduces the manual work previously done in Excel, saving both time and cost for the sales and marketing teams.
