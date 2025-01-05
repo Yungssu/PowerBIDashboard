@@ -34,8 +34,7 @@
 ---
 
 ## 🖼️ Visuals
-
-Here are some snapshots of the dashboard to give you a preview:  
+ 
 
 1️⃣ **Full Dashboard Layout**  
 ![Dashboard Screenshot](https://github.com/Yungssu/PowerBIDashboard/blob/main/AuroraDashboard/AuroraDashboard.png)
