@@ -20,7 +20,7 @@ A comprehensive dashboard analyzing customer demographics, financial health, and
   - 📈 Credit score distribution across customers.  
   - 💳 Insights on debt-to-income ratios and transaction amounts.  
 
-📌 **[View Project](link-to-your-aurora-project)**  
+📌 **[View Project](https://github.com/Yungssu/PowerBIDashboard/tree/main/AuroraDashboard)**  
 
 ---
 
