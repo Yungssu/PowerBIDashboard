@@ -15,7 +15,7 @@ Gain a deep understanding of customer demographics, financial health, and behavi
 - **Financial Behavior in Younger Customers**: Younger age groups (18-25) exhibited the highest average transaction amounts but also the highest debt-to-income ratios, suggesting room for targeted financial advice. 💡  
 
 ### Visuals
-Check out the interactive visuals and insights in the Aurora Dashboard! [Link to Dashboard Visuals](#)  
+Check out the interactive visuals and insights in the Aurora Dashboard! [Link to Dashboard Visuals](https://github.com/Yungssu/PowerBIDashboard/tree/main/AtliqDashboard)  
 
 ---
 
@@ -30,7 +30,7 @@ The Atliq Hardware Dashboard provides key insights into sales performance, profi
 - **Customer Segmentation**: Gained insights into customer purchasing patterns to tailor offerings and boost customer satisfaction. 💼  
 
 ### Visuals
-Explore the Atliq Hardware Dashboard and its actionable insights here: [Link to Dashboard Visuals](#)
+Explore the Atliq Hardware Dashboard and its actionable insights here: [Link to Dashboard Visuals](https://github.com/Yungssu/PowerBIDashboard/tree/main/AuroraDashboard)
 
 ---
 
@@ -41,7 +41,7 @@ Feel free to explore the dashboards and reach out if you have any questions or o
 
 📧 Email: kennethwhoyong@gmail.com 
 💼 [LinkedIn Profile](#)  
-🌐 [Portfolio](#)
+🌐 [Portfolio](https://github.com/Yungssu/kennethHuyong.github.io)
 
 ---
 
