@@ -39,3 +39,7 @@
 1️⃣ **Full Dashboard Layout**  
 ![Dashboard Screenshot](https://github.com/Yungssu/PowerBIDashboard/blob/main/AuroraDashboard/AuroraDashboard.png)
 
+## 🌐 Access the Dashboard
+You can access and interact with the **Aurora Dashboard** online by visiting the link below:  
+🔗 [Link to Dashboard](https://app.powerbi.com/groups/me/reports/b0aebfdc-ad69-4a70-913d-4d09d69085d2/f49adec510c5b8edacdb?experience=power-bi).
+
