@@ -31,7 +31,7 @@ Brief summary of the second project. Highlight the problem it solves or the insi
   - 🔹 Key detail 1.  
   - 🔹 Key detail 2.  
 
-📌 **[View Project](link-to-second-project)**  
+📌 **[View Project](https://github.com/Yungssu/PowerBIDashboard/tree/main/AtliqDashboard)**  
 
 *(Repeat this format for each project in your portfolio.)*
 
