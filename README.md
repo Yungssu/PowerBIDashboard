@@ -19,7 +19,7 @@ Check out the interactive visuals and insights in the Aurora Dashboard! [Link to
 
 ---
 
-## 🏢 Atliq Hardware Dashboard: Sales Insights and Analysis
+## 🏢 [Atliq Hardware Dashboard: Sales Insights and Analysis](https://github.com/Yungssu/PowerBIDashboard/tree/main/AtliqDashboard)
 
 ### Overview
 The Atliq Hardware Dashboard provides key insights into sales performance, profit trends, and operational efficiency, enabling data-driven decisions for business growth.
