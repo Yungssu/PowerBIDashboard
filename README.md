@@ -4,7 +4,7 @@ Welcome to my Power BI Dashboard Portfolio! This repository showcases interactiv
 
 ---
 
-## 🌌 Aurora Dashboard: Customer Profiling and Segmentation
+## 🌌 [Aurora Dashboard: Customer Profiling and Segmentation](https://github.com/Yungssu/PowerBIDashboard/tree/main/AuroraDashboard)
 
 ### Overview
 Gain a deep understanding of customer demographics, financial health, and behaviors to enable personalized marketing strategies and assess customer risk levels.
