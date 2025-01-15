@@ -39,9 +39,10 @@ I’m Kenneth Huyong, an aspiring data analyst passionate about transforming raw
 
 Feel free to explore the dashboards and reach out if you have any questions or opportunities to collaborate!
 
-📧 Email: kennethwhoyong@gmail.com
+📧 Email: kennethwhoyong@gmail.com  
 💼 [LinkedIn Profile](https://www.linkedin.com/in/kenneth-huyong-b255352b4/)  
 🌐 [Portfolio](https://github.com/Yungssu/kennethHuyong.github.io)
+
 
 ---
 
