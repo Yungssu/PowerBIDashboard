@@ -21,7 +21,7 @@ This project uses the AIMS grid project planning approach and follows a structur
 - **Power BI** was used to extract the data via DirectQuery, ensuring real-time analysis without affecting the source database. **SQL queries** were used to clean and transform the data before it was visualized in Power BI.
 
 ## 📊Screenshots
-!(https://github.com/Yungssu/PowerBIDashboard/blob/main/AtliqDashboard/AtliqDashboard.png)
+[Dashboard Screenshot](https://github.com/Yungssu/PowerBIDashboard/blob/main/AtliqDashboard/AtliqDashboard.png)
 
 ## 🌐 Access the Dashboard
 You can access and interact with the **Atliq Dashboard** online by visiting the link below:  
