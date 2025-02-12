@@ -44,6 +44,34 @@ You can access and interact with the **Aurora Dashboard** online by visiting the
 🔗 [Link to Dashboard](https://app.powerbi.com/groups/me/reports/8beca034-ae61-4e31-941c-7675c3d1504c/0ee266938cc5f447d5bb?experience=power-bi).
 
 ---
+## 🔍Recommendations  
+
+## 1. **Improve Customer Retention**  
+- Offer **personalized banking products** (credit cards, loans, savings plans) based on customer segments.  
+- Implement **loyalty programs** and targeted **retention campaigns** for at-risk customers.  
+
+## 2. **Enhance Credit Risk Management**  
+- Use **behavior-based credit scoring** to refine risk assessment.  
+- Develop an **early warning system** to flag potential defaulters.  
+
+## 3. **Increase Cross-Selling & Upselling**  
+- Provide **personalized loan and investment offers** based on spending and saving patterns.  
+- Promote **bundled financial products** (e.g., insurance with loans, premium accounts).  
+
+## 4. **Optimize Digital & Branch Banking**  
+- **Encourage digital adoption** through targeted campaigns.  
+- Use customer location data to **optimize branch placement**.  
+
+## 5. **Strengthen Fraud Prevention**  
+- Implement **real-time fraud detection** using anomaly detection models.  
+- Expand **multi-factor authentication** for high-risk transactions.  
+
+## 6. **Leverage AI & Predictive Analytics**  
+- Use **churn prediction models** to retain valuable customers.  
+- Develop AI-driven **chatbots and virtual assistants** to enhance customer service.  
+
+
+---
 
 ## 🔗 Portfolio Link  
 - [Back to My Portfolio](https://github.com/Yungssu/kennethHuyong.github.io)
