@@ -45,3 +45,6 @@ You can access and interact with the **Aurora Dashboard** online by visiting the
 
 ---
 
+## 🔗 Portfolio Link  
+- [Back to My Portfolio](https://github.com/Yungssu/kennethHuyong.github.io)
+
